@@ -4,7 +4,7 @@ A simple Python notebook to make Time Series Plots and Box Plots using an AQI da
 
 ## Dataset
 
-The dataset used was retrieved from [OpenAQ](https://openaq.org/#/). It consists of AQI data collected by [Indian Meteorological Department](https://mausam.imd.gov.in/) at North Campus, University of Delhi, New Delhi.
+The dataset used was retrieved from [OpenAQ](https://openaq.org/#/). It consists of AQI data collected by [India Meteorological Department](https://mausam.imd.gov.in/) at North Campus, University of Delhi, New Delhi.
 
 ### Coordinates
 
