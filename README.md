@@ -1,4 +1,4 @@
-# Analysis of AQI during COVID-19
+# Analysis of the AQI data during COVID-19 lockdown
 
 A simple Python notebook to make Time Series Plots and Box Plots using an AQI dataset.
 
